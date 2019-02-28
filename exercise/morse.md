@@ -36,6 +36,8 @@ Try encoding the following strings:
 
 `var secondWord = "we love javascript";`
 
+`var thirdWord = "We hate this But lOve javascript";`
+
 ## Further
 
 Write a function that accepts a user input and be able to output the encoded value.
